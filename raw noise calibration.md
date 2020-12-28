@@ -27,8 +27,7 @@ $$\sigma^2({y(x)})＝ay(x)+b$$
 
 $$\sigma({y(x)})＝\sqrt{ay(x)+b}$$
 
-
-
+其中$a$和$b$就是我们需要标定的参数。
 
 三 **标定实验流程**      
 ========
@@ -54,6 +53,6 @@ _______________
 六 **文献**
 ======
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MTgzMTM1MCw4NjY3ODM1MjQsLTQxOD
+eyJoaXN0b3J5IjpbMjA5NDE3ODEwNSw4NjY3ODM1MjQsLTQxOD
 Y2NTc1NSwtNDk4MjQ3MjU4XX0=
 -->
