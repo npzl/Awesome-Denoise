@@ -34,6 +34,5 @@ $$\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,$$
 六 **文献**
 ======
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNzU4NDk5NSwyMDY5Nzc2ODgzLC03OT
-Q1OTQ4NTZdfQ==
+eyJoaXN0b3J5IjpbMTEwNzU4NDk5NV19
 -->
