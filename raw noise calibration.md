@@ -38,7 +38,7 @@ $$\sigma({y(x)})＝\sqrt{ay(x)+b}$$
 
 (1)泊松噪声标定    
 _______________   
-
+泊松噪声的标定就是
 
 (2)高斯噪声标定    
 _______________  
@@ -56,7 +56,7 @@ _______________
 六 **文献**
 ======
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk5Njg0MzEzLC0xMTg3ODA2NjE0LDE3OT
-gyNjUyODAsMTM1MTg3NDA5OSwxNzM1NjU1NzE0LC0xMTI3MjQ0
-MTQzLDIxNDcxNDE3MDNdfQ==
+eyJoaXN0b3J5IjpbMTI3NzE3MjU5NCwtMTE4NzgwNjYxNCwxNz
+k4MjY1MjgwLDEzNTE4NzQwOTksMTczNTY1NTcxNCwtMTEyNzI0
+NDE0MywyMTQ3MTQxNzAzXX0=
 -->
