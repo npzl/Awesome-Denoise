@@ -13,6 +13,7 @@
 ------------
 ###泊松噪声
 
+###高斯噪声
 
 多帧标定实验流程
 ------------
@@ -27,5 +28,5 @@
 六 **文献**
 ======
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNjcxNTE1NywtNzk0NTk0ODU2XX0=
+eyJoaXN0b3J5IjpbLTEyODYxNzA5OTcsLTc5NDU5NDg1Nl19
 -->
