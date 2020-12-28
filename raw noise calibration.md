@@ -42,6 +42,7 @@ _______________
 
 &ensp;&ensp;&ensp;&ensp;用[https://git.n.xiaomi.com/huangbin1/calibrate_noise](https://git.n.xiaomi.com/huangbin1/calibrate_noise)这个工程run拍摄得到的raw文件，将得到标定的拟合结果与当前setting下相机噪声模型参数值。
 这里虽然a值与b值都能得出，但是b值估计的不是很准确，所以我们舍弃，只用得到的a值。
+
 (2)高斯噪声标定    
 _______________  
 &ensp;&ensp;&ensp;&ensp;
@@ -64,8 +65,8 @@ _______________
 
 ![avatar](/home/npzl/Downloads/11/iso800_1608822641783_input_8000x3000_2.RGGB.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MTAyOTgyNyw1OTAwOTA1NDQsLTE4ND
-YxOTIyNzcsMTEyOTMyMzMwOSwtMTE4NzgwNjYxNCwxNzk4MjY1
-MjgwLDEzNTE4NzQwOTksMTczNTY1NTcxNCwtMTEyNzI0NDE0My
-wyMTQ3MTQxNzAzXX0=
+eyJoaXN0b3J5IjpbLTE4NTA0MzIwODUsNTkwMDkwNTQ0LC0xOD
+Q2MTkyMjc3LDExMjkzMjMzMDksLTExODc4MDY2MTQsMTc5ODI2
+NTI4MCwxMzUxODc0MDk5LDE3MzU2NTU3MTQsLTExMjcyNDQxND
+MsMjE0NzE0MTcwM119
 -->
