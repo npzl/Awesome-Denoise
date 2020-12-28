@@ -38,7 +38,7 @@ $$\sigma({y(x)})＝\sqrt{ay(x)+b}$$
 
 (1)泊松噪声标定    
 _______________   
-泊松噪声的标定就是
+以K20s为例，分别以不同的iso[]拍摄灰阶图卡。拍摄灰阶
 
 (2)高斯噪声标定    
 _______________  
@@ -56,7 +56,7 @@ _______________
 六 **文献**
 ======
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NzE3MjU5NCwtMTE4NzgwNjYxNCwxNz
+eyJoaXN0b3J5IjpbLTM1MDkxNDI1NiwtMTE4NzgwNjYxNCwxNz
 k4MjY1MjgwLDEzNTE4NzQwOTksMTczNTY1NTcxNCwtMTEyNzI0
 NDE0MywyMTQ3MTQxNzAzXX0=
 -->
