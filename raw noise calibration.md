@@ -59,9 +59,9 @@ _______________
 
 
 
-
+![avatar](/home/npzl/Downloads/11/iso800_1608822641783_input_8000x3000_2.RGGB.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcyMTMzNzc3LC0xODQ2MTkyMjc3LDExMj
+eyJoaXN0b3J5IjpbNTkwMDkwNTQ0LC0xODQ2MTkyMjc3LDExMj
 kzMjMzMDksLTExODc4MDY2MTQsMTc5ODI2NTI4MCwxMzUxODc0
 MDk5LDE3MzU2NTU3MTQsLTExMjcyNDQxNDMsMjE0NzE0MTcwM1
 19
