@@ -42,6 +42,8 @@ _______________
 ![enter image description here](https://github.com/npzl/Awesome-Denoise/blob/master/iso800_1608822641783_input_8000x3000_2.RGGB.jpg)
 &ensp;&ensp;&ensp;&ensp;用[https://git.n.xiaomi.com/huangbin1/calibrate_noise](https://git.n.xiaomi.com/huangbin1/calibrate_noise)这个工程run拍摄得到的raw文件，将得到标定的拟合结果与当前setting下相机噪声模型参数值。这里虽然a值与b值都能得出，但是b值估计的不是很准确，所以我们舍弃，只用得到的a值。
 插入拟合结果图：
+然后根据不同iso得到的a值，对尽心
+
 
 (2)高斯噪声标定    
 _______________  
@@ -66,6 +68,6 @@ _______________
 
 ![avatar](/home/npzl/Downloads/11/iso800_1608822641783_input_8000x3000_2.RGGB.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYyOTM5MzE3LDEzNjYyNjUzMSw4ODcxNz
-Q2NDgsLTE3MDMzMDcwMDFdfQ==
+eyJoaXN0b3J5IjpbMTQ2OTc2ODE4NSwxMzY2MjY1MzEsODg3MT
+c0NjQ4LC0xNzAzMzA3MDAxXX0=
 -->
