@@ -5,11 +5,11 @@
 二 **噪声模型**    
 ========
 &ensp;&ensp;&ensp;&ensp;相机成像所成的噪声是信号相关的,考虑信号相关噪声的一般形式:  
-
 $$
-z(x) = y(x) + \sigma({y(x)})\xi(x)\int_0^\infty t^{z-1}e^{-t}dt\,
+z(x) = y(x) + \sigma({y(x)})\xi(x),x\in{X}
 $$
 
+其中
 
 
 
@@ -36,5 +36,5 @@ $$
 六 **文献**
 ======
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1ODI0NDA0NywxMTA3NTg0OTk1XX0=
+eyJoaXN0b3J5IjpbMTgzMTQyNTM1NSwxMTA3NTg0OTk1XX0=
 -->
