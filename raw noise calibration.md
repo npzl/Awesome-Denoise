@@ -31,7 +31,6 @@ $$\sigma({y(x)})＝\sqrt{ay(x)+b}$$
 
 三 **标定实验流程**      
 ========
-
 1单帧标定实验流程     
 ------------  
 (1)泊松噪声    
@@ -53,6 +52,6 @@ _______________
 六 **文献**
 ======
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDE3ODEwNSw4NjY3ODM1MjQsLTQxOD
-Y2NTc1NSwtNDk4MjQ3MjU4XX0=
+eyJoaXN0b3J5IjpbLTE1NTEyMzU0MTcsMjA5NDE3ODEwNSw4Nj
+Y3ODM1MjQsLTQxODY2NTc1NSwtNDk4MjQ3MjU4XX0=
 -->
