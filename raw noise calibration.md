@@ -65,8 +65,5 @@ _______________
 
 ![avatar](/home/npzl/Downloads/11/iso800_1608822641783_input_8000x3000_2.RGGB.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTA0MzIwODUsNTkwMDkwNTQ0LC0xOD
-Q2MTkyMjc3LDExMjkzMjMzMDksLTExODc4MDY2MTQsMTc5ODI2
-NTI4MCwxMzUxODc0MDk5LDE3MzU2NTU3MTQsLTExMjcyNDQxND
-MsMjE0NzE0MTcwM119
+eyJoaXN0b3J5IjpbLTE4NTA0MzIwODVdfQ==
 -->
