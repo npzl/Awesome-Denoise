@@ -6,12 +6,11 @@
 ========
 &ensp;&ensp;&ensp;&ensp;相机成像所成的噪声是信号相关的,考虑信号相关噪声的一般形式:  
 
-$$\z(z) = \int_0^\infty t^{z-1}e^{-t}dt\,$$
+$$
+z(x) = y(x) + \sigma({y(x)})\xi(x)\int_0^\infty t^{z-1}e^{-t}dt\,
+$$
 
-$ \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,. $
 
-
-$$\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,$$
 
 
 
@@ -37,5 +36,5 @@ $$\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,$$
 六 **文献**
 ======
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg2Mzg5MDIsMTEwNzU4NDk5NV19
+eyJoaXN0b3J5IjpbLTM1ODI0NDA0NywxMTA3NTg0OTk1XX0=
 -->
