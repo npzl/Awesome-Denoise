@@ -22,18 +22,18 @@ $$
 \right.
 $$
 
-因为产生泊松过程的噪声与高斯过程的噪声是相互独立的，所以相机最终观测得到的噪声方差与标准差为：
+&ensp;&ensp;&ensp;&ensp;因为产生泊松过程的噪声与高斯过程的噪声是相互独立的，所以相机最终观测得到的噪声方差与标准差为：
 $$\sigma^2({y(x)})＝ay(x)+b$$
 
 $$\sigma({y(x)})＝\sqrt{ay(x)+b}$$
 
-其中$a$和$b$就是我们需要标定的参数。
+&ensp;&ensp;&ensp;&ensp;其中$a$和$b$就是我们需要标定的参数。
 
 三 **标定实验流程**      
 ========
 1单帧标定实验流程     
 ------------  
-通过单帧raw图像标定噪声比较困难，目前
+&ensp;&ensp;&ensp;&ensp;通过单帧raw图像数据标定噪声相对多帧raw数据困难。联合泊松哦
 (1)泊松噪声标定    
 _______________   
 
@@ -53,5 +53,5 @@ _______________
 六 **文献**
 ======
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTI5OTMwNjgsMjE0NzE0MTcwM119
+eyJoaXN0b3J5IjpbNzQ4ODM2NzEwLDIxNDcxNDE3MDNdfQ==
 -->
