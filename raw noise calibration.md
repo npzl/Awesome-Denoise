@@ -4,7 +4,9 @@
 
 二 **噪声模型**    
 ========
-
+```ruby
+$ \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,. $
+```
 
 三 **标定实验流程**      
 ========
@@ -28,5 +30,6 @@
 六 **文献**
 ======
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2OTc3Njg4MywtNzk0NTk0ODU2XX0=
+eyJoaXN0b3J5IjpbMTQ4NjUyODk4OCwyMDY5Nzc2ODgzLC03OT
+Q1OTQ4NTZdfQ==
 -->
