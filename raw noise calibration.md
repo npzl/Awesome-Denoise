@@ -53,11 +53,11 @@ _______________
 $$b(iso)=b_{k1}*iso^2+b_{k2}*iso+b_{k3}$$
 插入拟合结果图：
 
-&ensp;&ensp;&ensp;&ensp;这样就得到了J17的泊松高斯噪声模型参数$[a_{k1}, a_{k2}, b_{k1}, b_{k2}, b_{k3}]$
+&ensp;&ensp;&ensp;&ensp;这样就得到了J17的泊松高斯噪声模型参数$[a_{k1}, a_{k2}, b_{k1}, b_{k2}, b_{k3}]$。
 
 2多帧标定实验流程     
 ------------
-
+&ensp;&ensp;&ensp;&ensp;多帧标定相对单帧标定要简单很多。
 
 
 四 **SOME TEST**     
@@ -73,8 +73,7 @@ $$b(iso)=b_{k1}*iso^2+b_{k2}*iso+b_{k3}$$
 
 
 
-![avatar](/home/npzl/Downloads/11/iso800_1608822641783_input_8000x3000_2.RGGB.jpg)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MzkyMTQwNSw5NzI4ODM4NTUsMTM2Nj
-I2NTMxLDg4NzE3NDY0OCwtMTcwMzMwNzAwMV19
+eyJoaXN0b3J5IjpbMTE3NzU0ODY5MF19
 -->
