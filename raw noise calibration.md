@@ -44,7 +44,7 @@ _______________
 插入图：
 (2)高斯噪声标定    
 _______________  
-&ensp;&ensp;&ensp;&ensp;
+&ensp;&ensp;&ensp;&ensp;以j17(最大的模拟增益为16000)为例，分别以不同的iso[$80*2$, $100*2$, $200*2$, $400*2$, $600*2$, $800*2$, $1000*2$, $1200*2$, $1600*2$, $2000*2$, $2400*2$, $2800*2$, $3200*2$, $4000*2$, $5000*2$, $6000*2$, $7000*2$, $8000*2$]拍摄完全没有光线的环境，。拍摄的灰阶成片如图:
 
 2多帧标定实验流程     
 ------------
@@ -64,6 +64,6 @@ _______________
 
 ![avatar](/home/npzl/Downloads/11/iso800_1608822641783_input_8000x3000_2.RGGB.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ3MjU1OTQ2LDg4NzE3NDY0OCwtMTcwMz
+eyJoaXN0b3J5IjpbMTM2NjI2NTMxLDg4NzE3NDY0OCwtMTcwMz
 MwNzAwMV19
 -->
