@@ -34,7 +34,7 @@ $$\sigma({y(x)})＝\sqrt{ay(x)+b}$$
 1单帧标定实验流程     
 ------------  
 &ensp;&ensp;&ensp;&ensp;通过单帧raw图像数据标定噪声相对多帧raw数据困难。联合泊松项与高斯项一起进行参数估计，因为高斯项相对泊松项影响较小，所以联合参数估计得到的高斯项参数$b$会有较大的误差，为了解决这个问题，我们将高斯项噪声与泊松噪声分开标定。
-&ensp;&ensp;&ensp;&ensp;实验表明，所成图像的噪声主要与相机拍摄时设置的模拟增益有关(数字增益的本质是直接乘上一个系数，其影响暂时不谈)，环境色温，曝光时间，环境温度的影响基本忽略不计。主要标定的方法简单的来说就是通过获取大量的信号值与噪声方差对，通过极大似然法来对噪声模型参数进行参数估计,得到当前相机setting(iso)下，所成
+&ensp;&ensp;&ensp;&ensp;实验表明，所成图像的噪声主要与相机拍摄时设置的模拟增益有关(数字增益的本质是直接乘上一个系数，其影响暂时不谈)，环境色温，曝光时间，环境温度的影响基本忽略不计。主要标定的方法简单的来说就是通过获取大量的信号值与噪声方差对，通过极大似然法来对噪声模型参数进行参数估计,得到当前相机setting(iso)下，所成图像的噪声模型参数。然后设定不同的iso,对每个iso
 (1)泊松噪声标定    
 _______________   
 
@@ -54,6 +54,6 @@ _______________
 六 **文献**
 ======
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU0MjAxOTgzLDEzNTE4NzQwOTksMTczNT
-Y1NTcxNCwtMTEyNzI0NDE0MywyMTQ3MTQxNzAzXX0=
+eyJoaXN0b3J5IjpbMTg5MjI5NDM3MSwxMzUxODc0MDk5LDE3Mz
+U2NTU3MTQsLTExMjcyNDQxNDMsMjE0NzE0MTcwM119
 -->
