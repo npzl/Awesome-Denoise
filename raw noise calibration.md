@@ -22,8 +22,10 @@ $$
 \right.
 $$
 
-因为产生泊松过程的噪声与高斯过程的噪声是相互独立的，所以相机最终观测得到的噪声为：
+因为产生泊松过程的噪声与高斯过程的噪声是相互独立的，所以相机最终观测得到的噪声方差与标准差为：
+$$\sigma^2({y(x)})＝ay(x)+b$$
 
+$$\sigma({y(x)})＝ay(x)+b$$
 
 
 
@@ -52,6 +54,6 @@ _______________
 六 **文献**
 ======
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MzIxMTk3Miw4NjY3ODM1MjQsLTQxOD
-Y2NTc1NSwtNDk4MjQ3MjU4XX0=
+eyJoaXN0b3J5IjpbLTE4MTE0NjEwMjIsODY2NzgzNTI0LC00MT
+g2NjU3NTUsLTQ5ODI0NzI1OF19
 -->
