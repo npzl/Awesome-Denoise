@@ -14,7 +14,11 @@ $$\sigma({y(x)})\xi(x)=\eta_p(y(x))+\eta_g(x)$$
 
 &ensp;&ensp;&ensp;&ensp;$\eta_p$是泊松项噪声，与信号强度$y(x)$相关，$\eta_g$是高斯项噪声。泊松分布特性：期望等于方差，且泊松分布在某个确定期望值下的分布近似于高斯分布：$P(\lambda)\approx{N(\lambda, \lambda)}$。由于相机成像量子效率泊松分布是放缩的,即$P(\lambda)\approx{N(\lambda, a\lambda)}$。高斯项噪声：$\eta_g(x)\sim{N(0, b)}$。
 $$
-
+\left \{ 
+\begin{cases}
+0, & \text{Y = f(X)}  \\
+1, & \text{Y $\neq$ f(X)}
+\end{cases}
 $$
 
 
@@ -44,5 +48,6 @@ _______________
 六 **文献**
 ======
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxODY2NTc1NSwtNDk4MjQ3MjU4XX0=
+eyJoaXN0b3J5IjpbLTE0OTIyNzg3MDUsLTQxODY2NTc1NSwtND
+k4MjQ3MjU4XX0=
 -->
