@@ -10,8 +10,8 @@ $$z(x) = y(x) + \sigma({y(x)})\xi(x),x\in{X}$$
 $$\xi(x)\sim{N(0, 1)}$$
 
 &ensp;&ensp;&ensp;&ensp;其中:$x$表示所在图像坐标，$y(x)$属于真实信号，$z(x)$属于相机最终观测到的信号,$\sigma()$表征噪声的标准差。我们将曝光时间内光子打在相机sensor上这个过程的不确定性建模为泊松分布，产生的噪声称泊松噪声项;将热噪声，读取噪声等剩余影响较小的噪声建模为高斯分布。  
-$$z(x) = y(x) + \sigma({y(x)})\xi(x),x\in{X}$$
-
+$$\sigma({y(x)})\xi(x)=\eta_p(y(x))+\eta_g(x)$$
+$$
 
 
 
@@ -40,6 +40,6 @@ _______________
 六 **文献**
 ======
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ4MDYyNDQ2LC0xNTIyMzA3NDkyLDExMD
-c1ODQ5OTVdfQ==
+eyJoaXN0b3J5IjpbLTU1NzU1OTIxMywtMTUyMjMwNzQ5MiwxMT
+A3NTg0OTk1XX0=
 -->
