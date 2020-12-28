@@ -9,7 +9,7 @@ $$z(x) = y(x) + \sigma({y(x)})\xi(x),x\in{X}$$
 
 $$\xi(x)\sim{N(0, 1)}$$
 
-其中:$x$表示所在图像坐标，$y(x)$属于真实信号，$z(x)$属于相机最终观测到的信号,$\sigma()$表征噪声的标准差。我们将曝光光在
+其中:$x$表示所在图像坐标，$y(x)$属于真实信号，$z(x)$属于相机最终观测到的信号,$\sigma()$表征噪声的标准差。我们将曝光时间内光子打在相机sensor上这个过程的不确定性建模为泊松分布，产生的噪声称泊松噪声项;将由于热噪声，
 
 
 
@@ -36,5 +36,5 @@ $$\xi(x)\sim{N(0, 1)}$$
 六 **文献**
 ======
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMjU2MzU4OSwxMTA3NTg0OTk1XX0=
+eyJoaXN0b3J5IjpbLTE1MjIzMDc0OTIsMTEwNzU4NDk5NV19
 -->
