@@ -24,8 +24,8 @@ $$
 $$
 \left \{ 
 \begin{array}{c}
-\text{}=d_1 \\ 
-\text{}a_2x+b_2y+c_2z=d_2 \\ 
+\text{Poissonian:}=d_1 \\ 
+\text{Gaussian:}a_2x+b_2y+c_2z=d_2 \\ 
 \text{}a_3x+b_3y+c_3z=d_3
 \end{array}
 \right.
@@ -58,6 +58,6 @@ _______________
 六 **文献**
 ======
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQyMDE3OTAwLDg2Njc4MzUyNCwtNDE4Nj
-Y1NzU1LC00OTgyNDcyNThdfQ==
+eyJoaXN0b3J5IjpbMTk1MjM1NDA4Niw4NjY3ODM1MjQsLTQxOD
+Y2NTc1NSwtNDk4MjQ3MjU4XX0=
 -->
