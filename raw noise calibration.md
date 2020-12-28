@@ -24,9 +24,9 @@ $$
 $$
 \left \{ 
 \begin{array}{c}
-\text=d_1 \\ 
-a_2x+b_2y+c_2z=d_2 \\ 
-a_3x+b_3y+c_3z=d_3
+\text{}=d_1 \\ 
+\text{}a_2x+b_2y+c_2z=d_2 \\ 
+\text{}a_3x+b_3y+c_3z=d_3
 \end{array}
 \right.
 $$
@@ -58,6 +58,6 @@ _______________
 六 **文献**
 ======
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTY4MzUxNTYsODY2NzgzNTI0LC00MT
-g2NjU3NTUsLTQ5ODI0NzI1OF19
+eyJoaXN0b3J5IjpbNDQyMDE3OTAwLDg2Njc4MzUyNCwtNDE4Nj
+Y1NzU1LC00OTgyNDcyNThdfQ==
 -->
