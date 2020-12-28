@@ -33,6 +33,7 @@ $$\sigma({y(x)})＝\sqrt{ay(x)+b}$$
 ========
 1单帧标定实验流程     
 ------------  
+通过单帧raw图像标定噪声比较困难，目前
 (1)泊松噪声标定    
 _______________   
 
@@ -52,5 +53,5 @@ _______________
 六 **文献**
 ======
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NzE0MTcwM119
+eyJoaXN0b3J5IjpbLTIxMTI5OTMwNjgsMjE0NzE0MTcwM119
 -->
