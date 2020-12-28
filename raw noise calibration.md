@@ -33,7 +33,7 @@ $$\sigma({y(x)})＝\sqrt{ay(x)+b}$$
 ========
 1单帧标定实验流程     
 ------------  
-&ensp;&ensp;&ensp;&ensp;通过单帧raw图像数据标定噪声相对多帧raw数据困难。联合泊松哦
+&ensp;&ensp;&ensp;&ensp;通过单帧raw图像数据标定噪声相对多帧raw数据困难。联合泊松项与高斯项一起进行参数估计，因为高斯项相对泊松影响叫
 (1)泊松噪声标定    
 _______________   
 
@@ -53,5 +53,5 @@ _______________
 六 **文献**
 ======
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4ODM2NzEwLDIxNDcxNDE3MDNdfQ==
+eyJoaXN0b3J5IjpbNzQ3MTQwMDIwLDIxNDcxNDE3MDNdfQ==
 -->
