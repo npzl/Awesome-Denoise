@@ -12,7 +12,7 @@ $$\xi(x)\sim{N(0, 1)}$$
 &ensp;&ensp;&ensp;&ensp;其中:$x$表示所在图像坐标，$y(x)$属于真实信号，$z(x)$属于相机最终观测到的信号,$\sigma()$表征噪声的标准差。我们将曝光时间内光子打在相机sensor上这个过程的不确定性建模为泊松分布，产生的噪声称泊松噪声项;将热噪声，读取噪声等剩余影响较小的噪声建模为高斯分布。  
 $$\sigma({y(x)})\xi(x)=\eta_p(y(x))+\eta_g(x)$$  
 
-&ensp;&ensp;&ensp;&ensp;$\eta_p$是泊松项噪声，与信号强度$y(x)$相关，$\eta_g$是高斯项噪声。泊松分布特性：期望等于方差，且$P(\lambda)\approx{N(\lambda, \lambda)}$。由于相机成像量子效率泊松分布是放缩的,即$P(\lambda)\approx{N(\lambda, a\lambda)}$。
+&ensp;&ensp;&ensp;&ensp;$\eta_p$是泊松项噪声，与信号强度$y(x)$相关，$\eta_g$是高斯项噪声。泊松分布特性：期望等于方差，且泊松分布在某个确定期望值下的分布近似于高斯分布：$P(\lambda)\approx{N(\lambda, \lambda)}$。由于相机成像量子效率泊松分布是放缩的,即$P(\lambda)\approx{N(\lambda, a\lambda)}$。
 
 
 
@@ -41,6 +41,6 @@ _______________
 六 **文献**
 ======
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDg0MDA5OCwtMTUyMjMwNzQ5MiwxMT
+eyJoaXN0b3J5IjpbLTQ5ODI0NzI1OCwtMTUyMjMwNzQ5MiwxMT
 A3NTg0OTk1XX0=
 -->
