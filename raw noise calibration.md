@@ -6,8 +6,10 @@
 ========
 &ensp;&ensp;&ensp;&ensp;相机成像所成的噪声是信号相关的,考虑信号相关噪声的一般形式:  
 $$z(x) = y(x) + \sigma({y(x)})\xi(x),x\in{X}$$
+
 $$\xi(x)\sim{N(0, 1)}$$
-其中:$x$表示所在图像坐标，$y(x)$属于真实信号，$z(x)$属于相机最终观测到的信号,
+
+其中:$x$表示所在图像坐标，$y(x)$属于真实信号，$z(x)$属于相机最终观测到的信号,$\sigma()$表征噪声的标准差。我们将曝光光在
 
 
 
@@ -34,5 +36,5 @@ $$\xi(x)\sim{N(0, 1)}$$
 六 **文献**
 ======
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5Mzc4NjkzNywxMTA3NTg0OTk1XX0=
+eyJoaXN0b3J5IjpbMjAyMjU2MzU4OSwxMTA3NTg0OTk1XX0=
 -->
