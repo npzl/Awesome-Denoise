@@ -53,7 +53,7 @@ _______________
 $$b(iso)=b_{k1}*iso^2+b_{k2}*iso+b_{k3}$$
 插入拟合结果图：
 
-
+&ensp;&ensp;&ensp;&ensp;
 2多帧标定实验流程     
 ------------
 
@@ -74,6 +74,6 @@ $$b(iso)=b_{k1}*iso^2+b_{k2}*iso+b_{k3}$$
 
 ![avatar](/home/npzl/Downloads/11/iso800_1608822641783_input_8000x3000_2.RGGB.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODU4MDIyOTMsMTM2NjI2NTMxLDg4Nz
-E3NDY0OCwtMTcwMzMwNzAwMV19
+eyJoaXN0b3J5IjpbOTcyODgzODU1LDEzNjYyNjUzMSw4ODcxNz
+Q2NDgsLTE3MDMzMDcwMDFdfQ==
 -->
