@@ -57,7 +57,7 @@ $$b(iso)=b_{k1}*iso^2+b_{k2}*iso+b_{k3}$$
 
 2多帧标定实验流程     
 ------------
-&ensp;&ensp;&ensp;&ensp;多帧标定相对单帧标定要简单很多。固定特定的iso静止相机采集一系列的灰阶图卡raw图像（理论上越多越好），对图像上每个像素
+&ensp;&ensp;&ensp;&ensp;多帧标定相对单帧标定要简单很多。固定特定的iso静止相机采集一系列的灰阶图卡raw图像（理论上越多得到的点对数据越准），对图像上每个像素位置计算均值和方差形成期望方差对。对这些数据进行线性回归拟合出当前iso下的a,b值。与单帧一样，对不同的isoxia
 
 
 四 **SOME TEST**     
@@ -75,5 +75,5 @@ $$b(iso)=b_{k1}*iso^2+b_{k2}*iso+b_{k3}$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NzI5NTAzNiwxMTc3NTQ4NjkwXX0=
+eyJoaXN0b3J5IjpbMTU1MDUxMjY3NywxMTc3NTQ4NjkwXX0=
 -->
