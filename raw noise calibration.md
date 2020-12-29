@@ -62,9 +62,10 @@ $$b(iso)=b_{k1}*iso^2+b_{k2}*iso+b_{k3}$$
 
 
 四 **SOME TEST**     
-======
+======  
+
 1模拟噪声的标定测试  
-————————————————
+------------
 2
 
 
@@ -79,6 +80,6 @@ $$b(iso)=b_{k1}*iso^2+b_{k2}*iso+b_{k3}$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MjA3MDk2NCwtMjA3MTE5MTA3NSwxMT
-c3NTQ4NjkwXX0=
+eyJoaXN0b3J5IjpbNTM5OTEwMTUwLC0yMDcxMTkxMDc1LDExNz
+c1NDg2OTBdfQ==
 -->
