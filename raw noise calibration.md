@@ -68,12 +68,16 @@ $$b(iso)=b_{k1}*iso^2+b_{k2}*iso+b_{k3}$$
 ------------  
 
 2clip对标定结果的影响
-------------  
+------------    
+
 
 五 **SOME ANALYSIS**   
 ======
+1clip对标定的噪声结果的影响分析与处理
+-------------
 
-
+2.噪声在频域上特性探索
+------------------
 
 
 
@@ -81,6 +85,6 @@ $$b(iso)=b_{k1}*iso^2+b_{k2}*iso+b_{k3}$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMjg2MjA1MSwtMjA3MTE5MTA3NSwxMT
-c3NTQ4NjkwXX0=
+eyJoaXN0b3J5IjpbODE0MDc3ODQ2LC0yMDcxMTkxMDc1LDExNz
+c1NDg2OTBdfQ==
 -->
