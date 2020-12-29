@@ -68,13 +68,12 @@ $$b(iso)=b_{k1}*iso^2+b_{k2}*iso+b_{k3}$$
 ======
 
 
-六 **文献**
-======
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MTUwOTM5MywxMTc3NTQ4NjkwXX0=
+eyJoaXN0b3J5IjpbLTIwNzExOTEwNzUsMTE3NzU0ODY5MF19
 -->
