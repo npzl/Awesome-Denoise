@@ -39,7 +39,7 @@ $$\sigma({y(x)})＝\sqrt{ay(x)+b}$$
 (1)泊松噪声标定    
 _______________   
 &ensp;&ensp;&ensp;&ensp;以j17(最大的模拟增益为16000)为例，分别以不同的iso[$80*2$, $100*2$, $200*2$, $400*2$, $600*2$, $800*2$, $1000*2$, $1200*2$, $1600*2$, $2000*2$, $2400*2$, $2800*2$, $3200*2$, $4000*2$, $5000*2$, $6000*2$, $7000*2$, $8000*2$]拍摄灰阶图卡。拍摄的灰阶成片如图:
-![enter image description here](https://drive.google.com/drive/folders/1ZgFP_YLJ0sspIgOScnXHnCAJ9ZHNA6Do)
+enter image description here
 &ensp;&ensp;&ensp;&ensp;用[https://git.n.xiaomi.com/huangbin1/calibrate_noise](https://git.n.xiaomi.com/huangbin1/calibrate_noise)这个工程run拍摄得到的raw文件，将得到标定的拟合结果与当前setting下相机噪声模型参数值。这里虽然a值与b值都能得出，但是b值估计的不是很准确，所以我们舍弃，只用得到的a值。
 拟合结果图：
 &ensp;&ensp;&ensp;&ensp;然后根据不同iso得到的a值，用最小二乘法线性拟合iso与a值之间的关系参数。
@@ -80,12 +80,8 @@ $$b(iso)=b_{k1}*iso^2+b_{k2}*iso+b_{k3}$$
 2.噪声在频域上特性探索
 ------------------
 
-
-
-
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4OTg0NDIxNywyOTMzMTg3MjUsODE0MD
-c3ODQ2LC0yMDcxMTkxMDc1LDExNzc1NDg2OTBdfQ==
+eyJoaXN0b3J5IjpbLTE0NDYzMjA0NzgsMjA4OTg0NDIxNywyOT
+MzMTg3MjUsODE0MDc3ODQ2LC0yMDcxMTkxMDc1LDExNzc1NDg2
+OTBdfQ==
 -->
