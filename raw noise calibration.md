@@ -65,9 +65,10 @@ $$b(iso)=b_{k1}*iso^2+b_{k2}*iso+b_{k3}$$
 ======  
 
 1模拟噪声的标定测试  
-------------
-2
+------------  
 
+2clip对标定结果的影响
+------------  
 
 五 **SOME ANALYSIS**   
 ======
@@ -80,6 +81,6 @@ $$b(iso)=b_{k1}*iso^2+b_{k2}*iso+b_{k3}$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM5OTEwMTUwLC0yMDcxMTkxMDc1LDExNz
-c1NDg2OTBdfQ==
+eyJoaXN0b3J5IjpbLTczMjg2MjA1MSwtMjA3MTE5MTA3NSwxMT
+c3NTQ4NjkwXX0=
 -->
